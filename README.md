@@ -1,4 +1,8 @@
 == README
+# Ruby on Rail Tutorial: "hello, world!"
+
+This is the first application for the Ruby on Rail Tutorial by Michael Heartl
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
